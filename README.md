@@ -38,7 +38,7 @@
         <h2>What I'm Learning</h2>
         <ul>
             <li>Git and GitHub</li>
-            <li>[Add your own items]</li>
+            <li>[python]</li>
         </ul>
     </div>
 
@@ -56,12 +56,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...a simple AI project
 - 🌱 I’m currently learning ...AI
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...beginner open source project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to find me...erickmwas10075@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
